@@ -4,3 +4,9 @@
         width: 100%!important;
     }
 }
+
+
+[id$="---Upload--RespTable"] {
+    height: 59vh;
+    overflow-y: auto;
+}
