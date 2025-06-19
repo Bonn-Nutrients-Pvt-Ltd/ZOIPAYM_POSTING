@@ -45,6 +45,7 @@
             <Table
                 id="RespTable"
                 mode="MultiSelect"
+                growing="true"
             />
             <smartTable:customToolbar>
                 <OverflowToolbar id="_IDGenOverflowToolbar2">

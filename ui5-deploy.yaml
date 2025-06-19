@@ -22,7 +22,7 @@ builder:
         app:
           name: ZINCOPAYMUPD
           package: ZOIPAYM_POSTING
-          transport: NXSK901585
+          transport: NXSK902535
         exclude:
           - /test/
   resources:
